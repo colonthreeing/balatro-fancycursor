@@ -1,0 +1,14 @@
+{
+    "id": "fancycursor",
+    "name": "Fancy Cursor",
+    "author": ["colonthreeing"],
+    "description": "Makes your cursor react to your actions.",
+    "prefix": "fancycursor",
+    "main_file": "main.lua",
+    "priority": 0,
+    "badge_text_colour": "FFFFFF",
+    "display_name": "Fancy Cursor",
+    "version": "0.1.0",
+    "dependencies": ["Steamodded (>=1.*)", "Lovely (>=0.6)"],
+    "conflicts": []
+}
